@@ -1,6 +1,7 @@
 # belly-button-challenge
 
 For this challenge, I created an interactive dashboard that explores the Belly Button Biodiversity dataset. This dataset contains catalogs of different microbes that colonize in the human navel. 
+
 Fun Fact: the dataset used to create my dashboard reveals that a small amount of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, the rest in the dataset are labeled as rare. 
 
 Dashboard Features:
